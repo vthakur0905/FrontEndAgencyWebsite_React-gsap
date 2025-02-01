@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-color: #fd2c2a; */
+  transition: all cubic-bezier(0.23, 1, 0.32, 1) 1s;
+  background-color: #000;
+  color: #fff;
+  font-family: "Montserrat", serif;
+}
+
+canvas {
+  pointer-events: none;
+}
+
+span.growing {
+  background-color: #fd2c2a;
+}
