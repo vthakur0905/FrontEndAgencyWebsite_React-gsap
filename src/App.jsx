@@ -90,7 +90,7 @@ function App() {
   return (
     <>
     <div className="md:hidden h-screen w-screen bg-black grid place-items-center">
-      <h1 className="text-4xl tracking-tight">please access it on Desktop</h1>
+      <h1 className="text-4xl tracking-tight">please access it on Desktop.</h1>
     </div>
     <div className="hidden md:block">
       <span
