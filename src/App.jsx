@@ -132,7 +132,7 @@ function App() {
                 passionate about creating digital experiences that are both
                 beautiful and functional.
               </p>
-              <p className="text-md mt-10 mb-44">scroll</p>
+              <p className="text-md mt-10 mb-44">scroll & tap on Logo below</p>
             </div>
           </div>
           <div className="w-full mt-60">
